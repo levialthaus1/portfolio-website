@@ -11,7 +11,7 @@ export const myEducationExperience: ResumeCardProps[] = [
   },
   {
     icon: LuBookOpen,
-    role: "Random Education 1",
+    role: "Yossi Althaus",
     description: "Bachelor of Sigma",
     subDescription: "Major: Sigma",
   },
