@@ -31,7 +31,7 @@ export default function HeroSection() {
             to-purple-600 blur-lg animate-pulse opacity-50`}
           ></div>
           <Image
-            src="/images/avatar2.png"
+            src="/images/profile-pic.jpg"
             alt="profile-image"
             className="rounded-full object-cover"
             fill
